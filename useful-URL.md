@@ -9,3 +9,5 @@
 [各版本 iso 源码包下载](https://vault.centos.org/)
 
 [nfs-utils各个版本源码下载地址](https://sourceforge.net/projects/nfs/files/)
+
+[书籍PDF](https://lwn.net/Kernel/LDD3/)
